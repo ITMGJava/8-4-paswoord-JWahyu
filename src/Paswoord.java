@@ -15,7 +15,7 @@ public class Paswoord {
                 "1. Voormalige president van de Verenigde Staten in 2009 tot 2017.%n" +
                 "2. The King of Pop.%n" +
                 "3. Een van de meest beroemdste wetenschapper dankzij zijn relativiteitstheorie.%n" +
-                "Hint: Hun voornamen zijn eveneens de gebruikersnamen met hun bijbehorende achternamen als wachtwoorden.%n");
+                "Hint: Hun voornamen zijn eveneens de gebruikersnamen met hun bijbehorende achternamen als wachtwoorden. Wel de correcte case gebruiken voor hun 'Namen' a.u.b.!%n");
 
         var count = 0;
         boolean check = false;
